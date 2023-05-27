@@ -1,0 +1,8 @@
+C:\work\EngineTest\EngineTest\obj\Debug\EngineTest.csproj.AssemblyReference.cache
+C:\work\EngineTest\EngineTest\obj\Debug\EngineTest.csproj.SuggestedBindingRedirects.cache
+C:\work\EngineTest\EngineTest\obj\Debug\EngineTest.csproj.CoreCompileInputs.cache
+C:\work\EngineTest\EngineTest\bin\Debug\EngineTest.exe.config
+C:\work\EngineTest\EngineTest\bin\Debug\EngineTest.exe
+C:\work\EngineTest\EngineTest\bin\Debug\EngineTest.pdb
+C:\work\EngineTest\EngineTest\obj\Debug\EngineTest.exe
+C:\work\EngineTest\EngineTest\obj\Debug\EngineTest.pdb
